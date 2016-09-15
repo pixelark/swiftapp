@@ -3,7 +3,7 @@
 //  Swift App
 //
 //  Created by Jeret Slack on 9/10/16.
-//  Copyright © 2016 Jeret Slack. All rights reserved.
+//  Copyright © 2016 Jeret Slack. All rights reserved..
 //
 
 import UIKit
